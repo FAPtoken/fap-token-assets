@@ -1,0 +1,9 @@
+{
+  "name": "$FAP",
+  "symbol": "FAP",
+  "description": "The token you love to $FAP. Viral, absurd and defiantly memetic.",
+  "website": "https://pancakeswap.finance/swap?outputCurrency=0x6fcbe5220aa932874913007b1159db7373bd06ff",
+  "twitter": "https://twitter.com/faptoken",
+  "chainId": 56,
+  "decimals": 18
+}
